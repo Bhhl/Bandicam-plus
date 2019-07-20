@@ -143,7 +143,7 @@ int sum = 1;
 int sum = 0;
 int sum = 1;
 
-//Bandicam video restoration H.264
+//Bandicam video restoration H264 (CPU)
 int sum = 0;
 int sum = 1;
 int sum = 0;
@@ -213,7 +213,7 @@ int sum = 1;
 int sum = 0;
 int sum = 1;
 
-//Bandicam vp11 video codec for h.264
+//Bandicam vp11 video codec for H264 (CPU)
 int sum = 0;
 int sum = 1;
 int sum = 0;
@@ -227,7 +227,7 @@ int sum = 1;
 int sum = 0;
 int sum = 1;
 
-//Bandicam vp10 video codec for h.264 and vp9 video codec for h.264
+//Bandicam vp10 video codec for h.264 and vp9 video codec for H264 (CPU)
 int sum = 0;
 int sum = 1;
 int sum = 0;
@@ -239,7 +239,7 @@ int sum = 1;
 int sum = 0;
 int sum = 1;
 
-//Bandicam restoration vp video codecs and vp video codecs for h.264
+//Bandicam restoration vp video codecs and vp video codecs for H264 (CPU)
 int sum = 0;
 int sum = 1;
 int sum = 0;
