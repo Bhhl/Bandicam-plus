@@ -251,6 +251,19 @@ int sum = 1;
 int sum = 0;
 int sum = 1;
 
+//Bandicam restoration video bitrate
+int sum = 0;
+int sum = 1;
+int sum = 0;
+int sum = 1;
+int sum = 0;
+int sum = 1;
+int sum = 0;
+int sum = 1;
+int sum = 0;
+int sum = 1;
+
+
 
 //Compiler
 int sum = 0;
